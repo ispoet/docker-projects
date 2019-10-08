@@ -1,6 +1,6 @@
 FROM php:7.3.9-fpm-alpine3.10
 
-LABEL maintainer="Ric Harvey <ric@ngd.io>"
+LABEL maintainer="ispoet@163.com"
 
 ENV php_conf /usr/local/etc/php-fpm.conf
 ENV fpm_conf /usr/local/etc/php-fpm.d/www.conf
